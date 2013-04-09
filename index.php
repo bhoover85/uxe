@@ -60,6 +60,7 @@
             <section>
                 <div id="carousel">
                     <ul>
+                        <li><img src="img/carousel/centric.jpg" alt="Centric"/></li>
                         <li><img src="img/carousel/revival41.jpg" alt="REvival41"/></li>
                         <li><img src="img/carousel/caitlin_manley.jpg" alt="Caitlin Manley"/></li>
                         <li><img src="img/carousel/blink_182.jpg" alt="Blink 182"/></li>
@@ -89,7 +90,7 @@
                 <div id="section"> 
                     <img src="img/featured.jpg" alt="Featured" class="section_title"/>
                     <!-- row 1 -->
-                        <div id="thumbnail"><a href="https://itunes.apple.com/us/movie/revival-41/id596211609" target="_blank"><img src="img/featured/revival41_on.jpg" alt="REvival41"/><img src="img/featured/revival41.jpg" alt="REvival 41" class="top"/></a></div>
+                        <div id="thumbnail"><a href="http://cntrc.tv/10BpkKY" target="_blank"><img src="img/featured/centric_on.jpg" alt="Centric"/><img src="img/featured/centric.jpg" alt="Centric" class="top"/></a></div>
                         <div id="thumbnail"><a href="http://player.vimeo.com/video/33803464" class="lightbox"><img src="img/featured/uxe_showreel_on.jpg" alt="UXE Showreel"/><img src="img/featured/uxe_showreel.jpg" alt="UXE Showreel" class="top"/></a></div>
                         <div id="thumbnail"><a href="http://player.vimeo.com/video/39910882" class="lightbox"><img src="img/featured/alekesam_on.jpg" alt="Alekesam"/><img src="img/featured/alekesam.jpg" alt="Alekesam" class="top"/></a></div>
                     <img src="img/end_section.jpg" class="end_section"/>
