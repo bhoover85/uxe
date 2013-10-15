@@ -60,16 +60,16 @@
             <section>
                 <div id="carousel">
                     <ul>
-                        <li><img src="img/carousel/kardashians.jpg" alt="Kardashians"/></li>
+                        <!-- <li><img src="img/carousel/kardashians.jpg" alt="Kardashians"/></li> -->
+                        <li><img src="img/carousel/tyson_chandler.jpg" alt="Tyson Chandler"/></li>
                         <li><img src="img/carousel/revival41.jpg" alt="REvival41"/></li>
                         <li><img src="img/carousel/caitlin_manley.jpg" alt="Caitlin Manley"/></li>
-                        <li><img src="img/carousel/tyson_chandler.jpg" alt="Tyson Chandler"/></li>
+                        <li><img src="img/carousel/fantasia.jpg" alt="Centric"/></li>
                         <li><img src="img/carousel/blink_182.jpg" alt="Blink 182"/></li>
                         <li><img src="img/carousel/the_act.jpg" alt="The Act"/></li>
-                        <li><img src="img/carousel/fantasia.jpg" alt="Centric"/></li>
+                        <li><img src="img/carousel/public_enemy.jpg" alt="Public Enemy"/></li>
                         <li><img src="img/carousel/bader.jpg" alt="Ryan Bader"/></li>
                         <li><img src="img/carousel/neon_hitch.jpg" alt="Neon Hitch"/></li>
-                        <li><img src="img/carousel/public_enemy.jpg" alt="Public Enemy"/></li>
                         <li><img src="img/carousel/alekesam.jpg" alt="Alekesam"/></li>
                         <li><img src="img/carousel/we_are.jpg" alt="We Are"/></li>
                         <li><img src="img/carousel/travelin_sal.jpg" alt="Travelin Sal"/></li>
