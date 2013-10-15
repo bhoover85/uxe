@@ -60,14 +60,16 @@
             <section>
                 <div id="carousel">
                     <ul>
-                        <!-- <li><img src="img/carousel/fantasia.jpg" alt="Centric"/></li> -->
-                        <!-- <li><img src="img/carousel/public_enemy.jpg" alt="Public Enemy"/></li> -->
+                        <li><img src="img/carousel/kardashians.jpg" alt="Kardashians"/></li>
                         <li><img src="img/carousel/revival41.jpg" alt="REvival41"/></li>
                         <li><img src="img/carousel/caitlin_manley.jpg" alt="Caitlin Manley"/></li>
+                        <li><img src="img/carousel/tyson_chandler.jpg" alt="Tyson Chandler"/></li>
                         <li><img src="img/carousel/blink_182.jpg" alt="Blink 182"/></li>
                         <li><img src="img/carousel/the_act.jpg" alt="The Act"/></li>
+                        <li><img src="img/carousel/fantasia.jpg" alt="Centric"/></li>
                         <li><img src="img/carousel/bader.jpg" alt="Ryan Bader"/></li>
                         <li><img src="img/carousel/neon_hitch.jpg" alt="Neon Hitch"/></li>
+                        <li><img src="img/carousel/public_enemy.jpg" alt="Public Enemy"/></li>
                         <li><img src="img/carousel/alekesam.jpg" alt="Alekesam"/></li>
                         <li><img src="img/carousel/we_are.jpg" alt="We Are"/></li>
                         <li><img src="img/carousel/travelin_sal.jpg" alt="Travelin Sal"/></li>
@@ -92,9 +94,10 @@
                     <img src="img/featured.jpg" alt="Featured" class="section_title"/>
                     <!-- row 1 -->
                         <!-- <div id="thumbnail"><a href="http://cntrc.tv/10BpkKY" target="_blank"><img src="img/featured/fantasia_on.jpg" alt="Centric Live: Fantasia"/><img src="img/featured/fantasia.jpg" alt="Centric Live: Fantasia" class="top"/></a></div> -->
-                        <div id="thumbnail"><a href="http://hypebeast.com/2013/5/rebels-without-a-pause-the-induction-celebration-of-public-enemy-into-the-rock-and-roll-hall-of-fame?_locale=en" target="_blank"><img src="img/featured/public_enemy_on.jpg" alt="Public Enemy"/><img src="img/featured/public_enemy.jpg" alt="Public Enemy" class="top"/></a></div>
+                        <!-- <div id="thumbnail"><a href="http://hypebeast.com/2013/5/rebels-without-a-pause-the-induction-celebration-of-public-enemy-into-the-rock-and-roll-hall-of-fame?_locale=en" target="_blank"><img src="img/featured/public_enemy_on.jpg" alt="Public Enemy"/><img src="img/featured/public_enemy.jpg" alt="Public Enemy" class="top"/></a></div> -->
+                        <div id="thumbnail"><a href="http://player.vimeo.com/video/76170843" class="lightbox"><img src="img/featured/tyson_chandler_on.jpg" alt="Tyson Chandler"/><img src="img/featured/tyson_chandler.jpg" alt="Tyson Chandler" class="top"/></a></div>
                         <div id="thumbnail"><a href="http://player.vimeo.com/video/33803464" class="lightbox"><img src="img/featured/uxe_showreel_on.jpg" alt="UXE Showreel"/><img src="img/featured/uxe_showreel.jpg" alt="UXE Showreel" class="top"/></a></div>
-                        <div id="thumbnail"><a href="http://player.vimeo.com/video/39910882" class="lightbox"><img src="img/featured/alekesam_on.jpg" alt="Alekesam"/><img src="img/featured/alekesam.jpg" alt="Alekesam" class="top"/></a></div>
+                        <div id="thumbnail"><a href="http://alekesamthemovie.com" target="_blank"><img src="img/featured/alekesam_on.jpg" alt="Alekesam"/><img src="img/featured/alekesam.jpg" alt="Alekesam" class="top"/></a></div>
                     <img src="img/end_section.jpg" class="end_section"/>
                 </div>
             </section>
@@ -139,12 +142,24 @@
             </section>
             <!-- branded entertainment -->
 
+            <!-- tv -->
+            <section>
+                <div id="section">
+                    <img src="img/tv.jpg" alt="TV" class="section_title"/>
+                    <!-- row 1 -->
+                        <div id="thumbnail"><a href="http://www.centrictv.com/shows/centric-live.html" target="_blank"><img src="img/tv/fantasia_on.jpg" alt="Fantasia"/><img src="img/tv/fantasia.jpg" alt="Fantasia" class="top"/></a></div>
+                        <div id="thumbnail"><a href="http://hypebeast.com/2013/5/rebels-without-a-pause-the-induction-celebration-of-public-enemy-into-the-rock-and-roll-hall-of-fame?_locale=en" class="lightbox"><img src="img/tv/public_enemy_on.jpg" alt="Public Enemy"/><img src="img/tv/public_enemy.jpg" alt="Public Enemy" class="top"/></a></div>
+                    <img src="img/end_section.jpg" class="end_section"/>
+                </div>
+            </section>
+            <!-- tv -->
+
             <!-- film -->
             <section>
                 <div id="section">
                     <img src="img/film.jpg" alt="Film" class="section_title"/>
                     <!-- row 1 -->
-                        <div id="thumbnail"><a href="http://player.vimeo.com/video/39910882" class="lightbox"><img src="img/film/alekesam_on.jpg" alt="Alekesam"/><img src="img/film/alekesam.jpg" alt="Alekesam" class="top"/></a></div>
+                        <div id="thumbnail"><a href="http://alekesamthemovie.com" target="_blank"><img src="img/film/alekesam_on.jpg" alt="Alekesam"/><img src="img/film/alekesam.jpg" alt="Alekesam" class="top"/></a></div>
                         <div id="thumbnail"><a href="https://itunes.apple.com/us/movie/revival-41/id596211609" target="_blank"><img src="img/film/revival41_on.jpg" alt="REvival41"/><img src="img/film/revival41.jpg" alt="REvival41" class="top"/></a></div>
                         <div id="thumbnail"><a href="http://trailers.apple.com/trailers/independent/streetdreams/" target="_blank"><img src="img/film/street_dreams_on.jpg" alt="Street Dreams"/><img src="img/film/street_dreams.jpg" alt="Street Dreams" class="top"/></a></div>
                     <!-- row 2 -->
@@ -210,6 +225,19 @@
                 </div>
             </section>
             <!-- mobile -->
+
+            <!-- radio -->
+            <section>
+                <div id="section">
+                    <img src="img/radio.jpg" alt="Radio" class="section_title"/>
+                    <!-- row 1 -->
+                        <div id="thumbnail"><a href="http://player.vimeo.com/video/76732423" class="lightbox"><img src="img/radio/clay_matthews_on.jpg" alt="Clay Matthews"/><img src="img/radio/clay_matthews.jpg" alt="Clay Matthews" class="top"/></a></div>
+                        <div id="thumbnail"><a href="http://player.vimeo.com/video/76732547" class="lightbox"><img src="img/radio/stephen_curry_on.jpg" alt="Stephen Curry"/><img src="img/radio/stephen_curry.jpg" alt="Stephen Curry" class="top"/></a></div>
+                        <div id="thumbnail"><a href="http://player.vimeo.com/video/76732454" class="lightbox"><img src="img/radio/matt_forte_on.jpg" alt="Matt Forte"/><img src="img/radio/matt_forte.jpg" alt="Matt Forte" class="top"/></a></div>
+                    <img src="img/end_section.jpg" class="end_section"/>
+                </div>
+            </section>
+            <!-- radio -->
 
             <div id="press"><a name="section3" class="section"></a></div>
 
@@ -283,7 +311,7 @@
             <?php
                 $userid = "184142151";
                 $accessToken = "184142151.ab103e5.c83f8b5441134b5dafafc492466432d0";
-                $count = 6;
+                $count = 12;
 
                 function fetchData($url){
                     $ch = curl_init();
