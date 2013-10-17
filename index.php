@@ -62,17 +62,24 @@
                     <ul>
                         <!-- <li><img src="img/carousel/kardashians.jpg" alt="Kardashians"/></li> -->
                         <li><img src="img/carousel/tyson_chandler.jpg" alt="Tyson Chandler"/></li>
-                        <li><img src="img/carousel/revival41.jpg" alt="REvival41"/></li>
-                        <li><img src="img/carousel/caitlin_manley.jpg" alt="Caitlin Manley"/></li>
-                        <li><img src="img/carousel/fantasia.jpg" alt="Centric"/></li>
-                        <li><img src="img/carousel/blink_182.jpg" alt="Blink 182"/></li>
-                        <li><img src="img/carousel/the_act.jpg" alt="The Act"/></li>
                         <li><img src="img/carousel/public_enemy.jpg" alt="Public Enemy"/></li>
+                        <li><img src="img/carousel/on_the_run.jpg" alt="On the Run"/></li>
+                        <li><img src="img/carousel/kate_vogel.jpg" alt="Kate Vogel"/></li>
+                        <li><img src="img/carousel/bader2.jpg" alt="Ryan Bader"/></li>
+                        <li><img src="img/carousel/the_act.jpg" alt="The Act"/></li>
+                        <li><img src="img/carousel/fantasia.jpg" alt="Fantasia"/></li>
                         <li><img src="img/carousel/bader.jpg" alt="Ryan Bader"/></li>
-                        <li><img src="img/carousel/neon_hitch.jpg" alt="Neon Hitch"/></li>
-                        <li><img src="img/carousel/alekesam.jpg" alt="Alekesam"/></li>
-                        <li><img src="img/carousel/we_are.jpg" alt="We Are"/></li>
+                        <li><img src="img/carousel/movie_tickets2.jpg" alt="Movie Tickets"/></li>
+                        <li><img src="img/carousel/neon_hitch2.jpg" alt="Neon Hitch"/></li>
+                        <li><img src="img/carousel/street_league.jpg" alt="Street League"/></li>
                         <li><img src="img/carousel/travelin_sal.jpg" alt="Travelin Sal"/></li>
+                        <li><img src="img/carousel/blink_182.jpg" alt="Blink 182"/></li>
+                        <li><img src="img/carousel/revival41.jpg" alt="REvival41"/></li>
+                        <li><img src="img/carousel/movie_tickets.jpg" alt="Movie Tickets"/></li>
+                        <li><img src="img/carousel/caitlin_manley.jpg" alt="Caitlin Manley"/></li>
+                        <li><img src="img/carousel/alekesam.jpg" alt="Alekesam"/></li>
+                        <li><img src="img/carousel/scavenger_hunt.jpg" alt="Scavenger Hunt"/></li>
+                        <li><img src="img/carousel/neon_hitch.jpg" alt="Neon Hitch"/></li>
                     </ul>
                 </div>
             </section>
@@ -130,6 +137,7 @@
                 <div id="section">
                     <img src="img/branded_entertainment.jpg" alt="Branded Entertainment" class="section_title"/>
                     <!-- row 1 -->
+                    	<div id="thumbnail"><a href="http://player.vimeo.com/video/76170843" class="lightbox"><img src="img/branded/tyson_chandler_on.jpg" alt="Tyson Chandler"/><img src="img/branded/tyson_chandler.jpg" alt="Tyson Chandler" class="top"/></a></div>
                         <div id="thumbnail"><a href="http://player.vimeo.com/video/60108584" class="lightbox"><img src="img/branded/ryan_bader_on.jpg" alt="Ryan Bader"/><img src="img/branded/ryan_bader.jpg" alt="Ryan Bader" class="top"/></a></div>
                         <div id="thumbnail"><a href="http://player.vimeo.com/video/39868591" class="lightbox"><img src="img/branded/sarah_hall_on.jpg" alt="Sarah Hall"/><img src="img/branded/sarah_hall.jpg" alt="Sarah Hall" class="top"/></a></div>
                         <!-- <div id="thumbnail"><a href="http://player.vimeo.com/video/46836460" class="lightbox"><img src="img/branded/aaron_hernandez_on.jpg" alt="Aaron Hernandez"/><img src="img/branded/aaron_hernandez.jpg" alt="Aaron Hernandez" class="top"/></a></div> -->
@@ -148,6 +156,7 @@
                     <img src="img/tv.jpg" alt="TV" class="section_title"/>
                     <!-- row 1 -->
                         <div id="thumbnail"><a href="http://www.centrictv.com/shows/centric-live.html" target="_blank"><img src="img/tv/fantasia_on.jpg" alt="Fantasia"/><img src="img/tv/fantasia.jpg" alt="Fantasia" class="top"/></a></div>
+                        <div id="thumbnail"><a href="http://player.vimeo.com/video/66210421" class="lightbox"><img src="img/tv/public_enemy_interstitial_on.jpg" alt="Public Enemy Interstitial"/><img src="img/tv/public_enemy_interstitial.jpg" alt="Public Enemy Interstitial" class="top"/></a></div>
                         <div id="thumbnail"><a href="http://hypebeast.com/2013/5/rebels-without-a-pause-the-induction-celebration-of-public-enemy-into-the-rock-and-roll-hall-of-fame?_locale=en" class="lightbox"><img src="img/tv/public_enemy_on.jpg" alt="Public Enemy"/><img src="img/tv/public_enemy.jpg" alt="Public Enemy" class="top"/></a></div>
                     <img src="img/end_section.jpg" class="end_section"/>
                 </div>
@@ -290,7 +299,7 @@
                             <li><a href="img/studio/studio_14_big.jpg" class="lightbox" data-group="set"><img src="img/studio/studio_14.jpg" alt="Studio Photo"/></a></li>
                         </ul>
                     </div>
-                    <img src="img/mission_statement.jpg" class="mission_statement"/>
+                    <img src="img/mission_statement.jpg" class="mission_statement" alt="Mission Statement"/>
                     <img src="img/end_section.jpg" class="end_section"/>
                 </div>
             </section>
@@ -305,13 +314,15 @@
                     <a href="mailto:jason@uxentertainment.com"><div id="jason"></div></a>
                     <a href="mailto:sal@uxentertainment.com"><div id="sal"></div></a>
                 </div>
+                <img src="img/caa.jpg" class="caa" alt="CreativeArtistsAgency"/>
+                <a href="mailto:info@uxentertainment.com"><div id="general_info"></div></a>
             </section>
             <!-- team -->
 
             <?php
                 $userid = "184142151";
                 $accessToken = "184142151.ab103e5.c83f8b5441134b5dafafc492466432d0";
-                $count = 12;
+                $count = 18;
 
                 function fetchData($url){
                     $ch = curl_init();

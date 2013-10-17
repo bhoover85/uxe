@@ -242,7 +242,6 @@ ul.social {
     z-index: 1;
 }
 
-
 #section {
     position: relative;
     margin: 0 auto;
@@ -348,6 +347,27 @@ ul.social {
     height: 61px;
     top: -60px;
     left: 261px;
+}
+
+#general_info {
+    position: relative;
+    float: left;
+    display: inline-block;
+    z-index: 1;
+    width: 305px;
+    height: 71px;
+    top: 52px;
+    left: 548px;
+    margin-bottom: -70px;
+}
+
+
+.caa {
+    position: relative;
+    clear: both;
+    display: block;
+    margin: 0 auto;
+    top: 120px;
 }
 
 #instagram {
@@ -575,6 +595,11 @@ ul.social {
         height: 427px;
     }
 
+    .caa {
+        width: 358px;
+        height: 205px;
+    }
+
     #emily {
         width: 187px;
         height: 50px;
@@ -601,6 +626,13 @@ ul.social {
         height: 50px;
         top: -45px;
         left: 181px;
+    }
+
+    #general_info {
+        width: 224px;
+        height: 51px;
+        top: 72px;
+        left: 388px;
     }
 
     .instagram {
